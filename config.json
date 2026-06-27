@@ -1,0 +1,5 @@
+{
+  "watchlist": ["BTCUSDT", "SOLUSDT", "SUIUSDT", "DOGEUSDT"],
+  "capital_to_add_usdt": 100,
+  "risk_profile": "medium"
+}
