@@ -1,7 +1,0 @@
-{
-  "base_currency": "USDT",
-  "watchlist": ["BTCUSDT", "SOLUSDT", "SUIUSDT", "DOGEUSDT"],
-  "risk_profile": "Prudent",
-  "max_allocation_per_signal_usdt": 100,
-  "notes": "Lecture seule. Aucun ordre Binance n'est exécuté."
-}
